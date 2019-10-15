@@ -33,7 +33,7 @@ public class WebSocketChatApplication {
      */
     @GetMapping("/")
     public ModelAndView login() {
-        //if we "/login" is used instead of "login", endpoint works fine when app is run from IDE
+        //if "/login" is used instead of "login", endpoint works fine when app is run from IDE
         //but does NOT run when packaged and executed with jar and show error message
         return new ModelAndView("login");
     }
