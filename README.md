@@ -17,5 +17,5 @@ class in chat module. Make sure you cover all there basic actions.
 Implement all TODOs inside WebSocketChatServer follow each method description.
 
 ### Run the application with command
-mvn build; mvn spring-boot:run
-
+mvn build; 
+mvn spring-boot:run
