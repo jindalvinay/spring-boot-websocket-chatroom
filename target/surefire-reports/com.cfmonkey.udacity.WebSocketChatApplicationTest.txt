@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cfmonkey.udacity.WebSocketChatApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.168 s - in com.cfmonkey.udacity.WebSocketChatApplicationTest

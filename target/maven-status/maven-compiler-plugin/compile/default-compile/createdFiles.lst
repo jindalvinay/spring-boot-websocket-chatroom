@@ -1,0 +1,4 @@
+com\cfmonkey\udacity\chat\config\WebSocketConfig.class
+com\cfmonkey\udacity\chat\controller\WebSocketChatServer.class
+com\cfmonkey\udacity\WebSocketChatApplication.class
+com\cfmonkey\udacity\chat\model\Message.class
